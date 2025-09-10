@@ -27,11 +27,11 @@
         default_layer {
             display-name = "Base";
             bindings = <
-&none         &kp N1     &kp N2       &kp N3            &kp N4          &kp N5               &tog 1                                                          &mo 3  &kp N6  &kp N7  &kp N8             &kp N9    &kp N0    &none
-&none         &kp Z      &kp Y        &kp U             &kp O           &kp SEMICOLON        &none                                                           &none  &kp Q   &kp L   &kp D              &kp P     &kp X     &none
-&kp W         &kp C      &hm LCTRL I  &hm LEFT_SHIFT E  &hm LEFT_ALT A  &hm LEFT_META COMMA  &none      &kp ESCAPE  &none      &kp RIGHT_ALT  &kp BACKSLASH  &none  &kp K   &kp H   &hm RIGHT_SHIFT T  &kp N     &kp S     &kp F
-&kp ASTERISK  &kp SQT    &kp MINUS    &kp EQUAL         &kp PERIOD      &kp SLASH                                   &none      &kp DELETE                           &kp J   &kp M   &kp G              &kp B     &kp V     &kp HOME
-&mo 2         &kp GRAVE  &kp CAPS     &kp LEFT          &kp RIGHT                            &kp SPACE  &kp ENTER   &mo 1      &kp TAB        &kp BACKSPACE  &kp R          &kp UP  &kp DOWN           &kp LBKT  &kp RBKT  &mo 2
+&none         &kp N1     &kp N2       &kp N3            &kp N4                &kp N5         &tog 1                                                          &mo 3  &kp N6  &kp N7            &kp N8             &kp N9       &kp N0    &none
+&none         &kp Z      &kp Y        &kp U             &kp O                 &kp SEMICOLON  &none                                                           &none  &kp Q   &kp L             &kp D              &kp P        &kp X     &none
+&kp W         &kp C      &hm LCTRL I  &hm LEFT_SHIFT E  &hm LEFT_ALT A        &kp COMMA      &none      &kp ESCAPE  &none      &kp RIGHT_ALT  &kp BACKSLASH  &none  &kp K   &kp H             &hm RIGHT_SHIFT T  &hm RCTRL N  &kp S     &kp F
+&kp ASTERISK  &kp SQT    &kp MINUS    &kp EQUAL         &hm LEFT_META PERIOD  &kp SLASH                             &none      &kp DELETE                           &kp J   &hm RIGHT_META M  &kp G              &kp B        &kp V     &kp HOME
+&mo 2         &kp GRAVE  &kp CAPS     &kp LEFT          &kp RIGHT                            &kp SPACE  &kp ENTER   &mo 1      &kp TAB        &kp BACKSPACE  &kp R          &kp UP            &kp DOWN           &kp LBKT     &kp RBKT  &mo 2
             >;
         };
 
